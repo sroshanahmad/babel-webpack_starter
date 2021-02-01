@@ -8,7 +8,7 @@
     "build": "webpack",
     "start": "webpack serve --output-public-path=/build/"
   },
-  "author": "",
+  "author": "Roshan Ahmad",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.12.10",
